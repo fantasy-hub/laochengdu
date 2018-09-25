@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="22px" viewBox="0 0 61 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>right_tip_small_button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2-Copy-3" transform="translate(-1847.000000, -191.000000)" stroke="#D49256" stroke-width="0.5">
+            <g id="Group-2" transform="translate(1580.000000, 0.000000)">
+                <g id="Group-5" transform="translate(267.000000, 191.000000)">
+                    <g id="Group-23">
+                        <g id="Group-22">
+                            <path d="M9.26165647,0.25 L0.325097175,11.2205438 L9.25860568,21.75 L51.7439987,21.75 L60.674805,11.5839899 L51.7359168,0.25 L9.26165647,0.25 Z" id="Rectangle-3" fill-opacity="0.1" fill="#D49256"></path>
+                            <path d="M10.5954015,2.25 L3.32502692,11.1798547 L10.5923507,19.75 L50.4102538,19.75 L57.6748753,11.4762452 L50.4021718,2.25 L10.5954015,2.25 Z" id="Rectangle-3-Copy" fill="#FDFAF7"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

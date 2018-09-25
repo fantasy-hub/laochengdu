@@ -1,0 +1,44 @@
+.hide {
+    display: none;
+}
+
+/* 加载字体 */
+@font-face {
+    font-family: 'PingFang-SC-Regular';
+    src: url("../fonts/PingFang-Regular/PingFang-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: 'PingFang-SC-Semibold';
+src: url("../fonts/PingFang-SC/PingFang-SC-Semibold.woff") format("woff");
+}
+@font-face {
+    font-family: 'PingFang-SC-Medium';
+    src: url("../fonts/PingFang-SC/PingFang-SC-Medium.woff") format("woff");
+}
+@font-face {
+    font-family: 'DIN-Alternate-Bold';
+    src: url("../fonts/DIN/DIN\ Alternate\ Bold.ttf") format("ttf");
+}
+
+/* CSS3动画 */
+@keyframes breath {
+    to  { transform: scale(1) }
+    50% { transform: scale(1.1) }
+    from { transform: scale(1) }
+}
+@keyframes left-arrow {
+    0%  { transform: translateX(0) }
+    70% { transform: translateX(-0.01rem) }
+    100% { transform: translateX(0) }
+}
+@keyframes scalex {
+    from {
+        transform: scaleX(1);
+    }
+    50% {
+        transform: scaleX(1.1);
+    }
+    to {
+        transform: scaleX(1);
+    }
+}
